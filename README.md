@@ -52,3 +52,5 @@ This script create @Alzar
 I just copied and share.Because he deleted the repository.
 
 Thanks for everthing Alzar :P
+
+[Original Forum Link](https://forum.cfx.re/t/dev-resource-mythic-notifications/587071)
