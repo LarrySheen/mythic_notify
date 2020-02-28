@@ -45,3 +45,8 @@ TriggerClientEvent('mythic_notify:client:SendAlert', source, { type = 'inform', 
 
 ##### Result:
 ![Custom Styling](https://i.imgur.com/FClWCqm.png)
+
+
+This script create @Alzar
+
+I just copied and share.Because he deleted the repository.
