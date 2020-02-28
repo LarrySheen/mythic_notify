@@ -50,3 +50,5 @@ TriggerClientEvent('mythic_notify:client:SendAlert', source, { type = 'inform', 
 This script create @Alzar
 
 I just copied and share.Because he deleted the repository.
+
+Thanks for everthing Alzar :P
